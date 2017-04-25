@@ -1,3 +1,3 @@
 # jekyll_demo
 
-https://github.com/zhongyouguo/jekyll_demo
+https://zhongyouguo.github.com/jekyll_demo
